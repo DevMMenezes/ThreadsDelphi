@@ -1,0 +1,16 @@
+﻿[btnITask]
+Coordinates=10,10,64,58
+
+[btnPadrao]
+Coordinates=10,78,74,58
+Visible=True
+
+[lbltimetask]
+Coordinates=84,10,76,58
+
+[btnTask]
+Coordinates=170,10,60,58
+
+[]
+Coordinates=162,78,91,36
+
